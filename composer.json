@@ -1,0 +1,22 @@
+{
+	"name": "ngframer/ngframer.php.htmlbuilder",
+	"description": "Build HTML components for your PHP application.",
+	"license": "MIT",
+	"autoload": {
+	  "psr-4": {
+		"NGFramer\\NGFramerPHPHTMLBuilder\\": "/"
+	  }
+	},
+	"authors": [
+	  {
+		"name": "NG Framer",
+		"homepage": "https://github.com/NGFramer"
+	  },
+	  {
+		"name": "Kishor Neupane",
+		"homepage": "https://github.com/neupkishor"
+	  }
+	],
+	"require": {
+	}
+  }

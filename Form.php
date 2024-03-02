@@ -1,6 +1,6 @@
 <?php
 
-namespace ngframer.php.htmlbuilder;
+namespace NGFramer\NGFramerPHPHTMLBuilder;
 
 final class Form
 {

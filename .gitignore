@@ -1,0 +1,4 @@
+# Ignore the following directories entirely in Git Commit.
+vendor
+
+# Ignore the following files on Git Commit.
